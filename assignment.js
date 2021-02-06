@@ -1,4 +1,4 @@
-// %githubLink
+// https://github.com/AREmondev/jsProblemsolving-assignment
 function kilometerToMeter(kilomiter) {
   // Check kilomiter perm. is a number
 
